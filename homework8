@@ -1,0 +1,5 @@
+1.	.Append()-adds item to the end of a list 
+2.	.Remove()-remove an item from the list
+3.	.Extend()-increases list by number of elements 
+4.	.Pop – gets rid of the last element, while .clear get rid of the whole list
+5.	The amount of element in the list 
